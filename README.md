@@ -62,7 +62,7 @@ python -m uvicorn main:app --reload
 ```
 
 * **Interactive API Documentation (Swagger UI):** http://127.0.0.1:8000/docs
-* **Health Check Endpoint:** http://127.0.0.1:8000/health
+* **Health Check Endpoint:** http://127.0.0.1:8000/health'
 
 ---
 
